@@ -1,3 +1,0 @@
-1. this.year.... 是不是如同__init__里的self.year =
-
-2. 没call toString（），输出怎么变成的string，为啥toString（）里不用写this.month
